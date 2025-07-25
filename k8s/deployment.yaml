@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: fastapi-container
-          image: sabrinxsz/fastapi-app:1753461411
+          image: sabrinxsz/fastapi-app:1753462140
           ports:
             - containerPort: 80
 
